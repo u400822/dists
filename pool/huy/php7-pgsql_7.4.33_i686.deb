@@ -1,0 +1,15 @@
+Package: php7-pgsql
+Version: 7.4.33
+Architecture: i686
+Maintainer: @u400822
+Installed-Size: 164
+Depends: apr-util, postgresql, php7 (= 7.4.33)
+Conflicts: php-pgsql
+Filename: pool/huy/php7-pgsql_7.4.33_i686.deb
+Size: 45112
+MD5sum: f8d4cb9bafb7a67114d7a1d0cdef3297
+SHA1: 15c371212b496ce299b3a65609ddc30eac415f1c
+SHA256: d6a1b8cd563eca91454d6779c2ccfeea8f2601ff81da0f62e4c8d91fb769790b
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+

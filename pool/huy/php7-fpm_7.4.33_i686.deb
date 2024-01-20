@@ -1,0 +1,15 @@
+Package: php7-fpm
+Version: 7.4.33
+Architecture: i686
+Maintainer: @u400822
+Installed-Size: 12328
+Depends: php7 (= 7.4.33)
+Conflicts: php-fpm
+Filename: pool/huy/php7-fpm_7.4.33_i686.deb
+Size: 2422388
+MD5sum: 4fdb77f5afcc57122579bf78f87598e4
+SHA1: cdac4cf5b33f0f46ff1fab0071ea9b65fb14c99a
+SHA256: eb2470129f83949d1beb9a04c6ea510a4ac5150f88fa8b9ec7bdebde0418e5a8
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+
