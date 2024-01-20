@@ -1,0 +1,12 @@
+Origin: u400822 huy-packages
+Label: u400822 huy-packages
+Suite: huy-packages
+Codename: huy-packages
+Date: Sat, 20 Jan 2024 14:48:56 +0000
+Architectures: aarch64 arm i686 x86_64
+Components: huy 
+Description: Huy packages
+MD5:
+SHA1:
+SHA256:
+SHA512:
