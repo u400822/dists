@@ -155,8 +155,8 @@ sign_release_file() {
 
     fi
     echo "Signing Release file"
-    gpg --passphrase "$(echo -n $SEC_PASS | base32 --decode)" --batch --yes --pinentry-mode loopback -u CA3D655ADBDBB49C3912F8F4F7F54014307A2954 -bao ./Release.gpg Release
-    gpg --passphrase "$(echo -n $SEC_PASS | base32 --decode)" --batch --yes --pinentry-mode loopback -u CA3D655ADBDBB49C3912F8F4F7F54014307A2954 --clear-sign --output InRelease Release
+    gpg --passphrase "$(echo -n $SEC_PASS | base32 --decode)" --batch --yes --pinentry-mode loopback -u 77DDB1274BA7176F6B561AD503246EBCF41E114A -bao ./Release.gpg Release
+    gpg --passphrase "$(echo -n $SEC_PASS | base32 --decode)" --batch --yes --pinentry-mode loopback -u 77DDB1274BA7176F6B561AD503246EBCF41E114A --clear-sign --output InRelease Release
 }
 create_dist_structure
 create_packages
