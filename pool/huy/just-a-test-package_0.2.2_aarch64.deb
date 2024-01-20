@@ -1,0 +1,13 @@
+Package: just-a-test-package
+Version: 0.2.2
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 48
+Filename: pool/huy/just-a-test-package_0.2.2_aarch64.deb
+Size: 2152
+MD5sum: e430fba5b2982fda83bf5f512f39b341
+SHA1: 82de6ed5594048fb886143878c5766371d3cafaf
+SHA256: 84c2f243a45d5c5f5871a52afced10b5d8bc56e4bd6a34a596d616d1eaa78bd9
+Homepage: https://github.com/Dichvucoder-company/dvc-packages
+Description: Dummy test for dvc packages
+
