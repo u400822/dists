@@ -1,0 +1,61 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: u400822 huy-packages
+Label: u400822 huy-packages
+Suite: huy-packages
+Codename: huy-packages
+Date: Sat, 20 Jan 2024 17:40:14 +0000
+Architectures: aarch64 arm i686 x86_64
+Components: huy 
+Description: Huy packages
+MD5:
+ 2c13e1186c39ea148bcc4b12a6f56465 330 huy/binary-arm/Packages.gz
+ 61ab457964c75bfe2adce2c3aea630f1 435 huy/binary-arm/Packages
+ dd7d039cf0f16267ccc82a63e452e18a 332 huy/binary-i686/Packages.gz
+ 2517954891809cdfe3322b844fbd48f2 437 huy/binary-i686/Packages
+ 65f2b963b6a70bad89c67476cc89644e 334 huy/binary-aarch64/Packages.gz
+ 962a649b44d6635300f7da8baa0e1d0c 443 huy/binary-aarch64/Packages
+ 53768f16caa56cb64ebaddc18cb5b87d 336 huy/binary-x86_64/Packages.gz
+ d340b9160495d2340133cd282242996f 441 huy/binary-x86_64/Packages
+SHA1:
+ 465456fedb8ed4302e1d83e5d4bac8e80fc7864e 330 huy/binary-arm/Packages.gz
+ 3b3376ca5b1b2059d85f6738f5669d16c12a9034 435 huy/binary-arm/Packages
+ 22fd4b22ccaf3e28bcdc839a03e0b08ca316a30b 332 huy/binary-i686/Packages.gz
+ 72936bfb3274a707e4c5d982c0480ebdd793c9b1 437 huy/binary-i686/Packages
+ f56b03c62a460d96c052c0a2225ffb207085bccb 334 huy/binary-aarch64/Packages.gz
+ 97e4474268f4a0009bd0e7bdbd54b08130007b52 443 huy/binary-aarch64/Packages
+ dfa226f86207174ea41426fac420cb3ead2e1d6e 336 huy/binary-x86_64/Packages.gz
+ ce5472fa310d1a7adc375032460706272c0924d4 441 huy/binary-x86_64/Packages
+SHA256:
+ 9be7004e19a164d7cc016e25b159d4f08e3e008c9a04058cbc11aabe826ca462 330 huy/binary-arm/Packages.gz
+ 37ead4173c2122a1abd9d00ad804f2c34d3b24771cb37a26f65d5f5e859cc947 435 huy/binary-arm/Packages
+ 61f3a290bd93f143800dbf7be2c0e3a6ee726e508ff3574ec31397378e8e0360 332 huy/binary-i686/Packages.gz
+ 683ff9c34688624f78abfd7c1d0df1254bb4b88f9597cfb2c13bdf4d4e56232a 437 huy/binary-i686/Packages
+ 45b139fa3884fb64d4dc9aa7e826092888f71f0d62e266d56cce447eb14b5d8d 334 huy/binary-aarch64/Packages.gz
+ caea774abd6d227e535d747756503457723945ddb5e701d1888a51531ca1ea20 443 huy/binary-aarch64/Packages
+ fa965884aff1381cf5ad48f1d3097a77c76b8dbeb95acc3d2e89bd455c70f7e0 336 huy/binary-x86_64/Packages.gz
+ 22dd36c8011211ad70ac15917ca570f8cd0932c71bd7191fc68a6083dff108fb 441 huy/binary-x86_64/Packages
+SHA512:
+ 5cf2124fd16f07b386eb4c4531cf59b74c7de1c7fd16a91c728c58bcd389b4613a4d75c6a698be68ee420dc17192c7cc750b9c114b649127b03e39314b0a75af 330 huy/binary-arm/Packages.gz
+ 1386deb69f0242739b1ae283f47ec4c624a1906843bfa7597b4326ee21021b2dd188b19c29d8c66ba205b6302c03de5090d5bf6db79532391fa1bfd37717df84 435 huy/binary-arm/Packages
+ cb8c2525d6a5f60664dfd604b67ac5edbcfb9baf1ba7ec2874cda1b644eae27abf2a896fddd13edf20f5735ded6bbf581437b688634dfa2a99c02b3aa5952013 332 huy/binary-i686/Packages.gz
+ 6289621534c215259c0c00cadab6c0cbe6e410431eac82877bed03b0572e3ea62a1a7826c5b092796b8d4748190fc62b987191386d5af985f472908d0f29f272 437 huy/binary-i686/Packages
+ ab63d5b7365e3e2225b3ebb73b07cf5d72acfb678d712cc66b3707db65c83292b7ef5682c2615c45f75368a8257e27c20d2e8bfcb8c90fb9e4a29d7475e84138 334 huy/binary-aarch64/Packages.gz
+ 9a20df4538024b4e1fa37ba6c19a8b76ae7036eb270e714cfba2cb9d6f33a7ce8f4b04d1f2fedf0b52dae1bc84f959a96dd3230564514c05689e8a33de935c8c 443 huy/binary-aarch64/Packages
+ 6fda01d957e921b300888f92a0d83c41e0f89416f21450b0d8e462cafc2ababe970fbc47f499dda5bbb3e962f85dc8d93e33e47a9a93874e098d87011023aca7 336 huy/binary-x86_64/Packages.gz
+ 5240a5a5e9519e12b1b3702d4da12c6b4d9d81f3623c840ccfaa9a281071e713915aefc356929bf0cedba7414efd0d2818463070d6ea5e7f557fc452d4818d70 441 huy/binary-x86_64/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEd92xJ0unF29rVhrVAyRuvPQeEUoFAmWsBYAACgkQAyRuvPQe
+EUoM5Av/ePnPkcjHe+mA7K226T66uwbfH5QVTlp3KfdJSmSBXHOBXS8ADPTzyOxn
+1hpXySrRbb15sioP/96g2PnEdGx0sRNawTR0Nt/wMFm1ZOnZbDUk/BmUi56sd/l3
+9bTV2XewrAkxUJIhrZ5OuHIoDMfLaMIASf6TeLtOjHBo2YuFHpiVME61ALa9BR+5
+5z9rggRRFenpI0Lv4lS+PpI80fRDrGfEsLlaQvNwJocIw0EzNU/Eg/HPc3I6Bxn6
+LxH8Jbz1a4e30kELG+d4oVntRT96tHJvnc1msJdV64pOfQsY3cnHNlw2/5Sy5TeH
+nQxb8m/SL4Q8rPwAkIfT3t05xkPOluc7GwTde0mzdVOU9yqFCCjAsZQJovYGpDvf
+1q/tTbVvxvzKhjabmFi0MMIdV1mUgEMdOJxvLonUbjY1hq6mzXO7NPR1fUgtbVze
+qn20ex6XGa/VM1Q1ydYwjF5Q2535ejmpd89fIpwMjr9YzS/bgdV5GbgKRSr10FSs
+nN8D508J
+=yp/i
+-----END PGP SIGNATURE-----
