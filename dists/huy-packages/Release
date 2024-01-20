@@ -2,43 +2,11 @@ Origin: u400822 huy-packages
 Label: u400822 huy-packages
 Suite: huy-packages
 Codename: huy-packages
-Date: Sat, 20 Jan 2024 16:45:02 +0000
+Date: Sat, 20 Jan 2024 16:56:32 +0000
 Architectures: aarch64 arm i686 x86_64
 Components: huy 
 Description: Huy packages
 MD5:
- fde8b051c194a1e432723ec9d24b6e7d 1141 huy/binary-arm/Packages.gz
- 511b5e11c8344b2fbfd4e9cd496f347c 2587 huy/binary-arm/Packages
- 2a748f48e654d259912520099c83d9a2 1144 huy/binary-i686/Packages.gz
- 8b2acd08214f10ef6b7f6a671c2b910b 2597 huy/binary-i686/Packages
- b9cf3f6aa6b16dffe16722f4f2221d56 1145 huy/binary-aarch64/Packages.gz
- ab346ae934384b244e161605828dbdf4 2627 huy/binary-aarch64/Packages
- bb83bf2d88a67bba6aa4e63ccc684ad9 1144 huy/binary-x86_64/Packages.gz
- a24ee9b554c65b0debc3ce2786f0f4a1 2617 huy/binary-x86_64/Packages
 SHA1:
- dc926ce08fab0b5fd9be60d82a2002f24558df8f 1141 huy/binary-arm/Packages.gz
- 950783551f366abc3024de4d7aab16b06d265691 2587 huy/binary-arm/Packages
- f141282769da5a32ae3fd4cff55fe567328fd160 1144 huy/binary-i686/Packages.gz
- e6629f0f882700774fe6d5a68d7fca746aa192ff 2597 huy/binary-i686/Packages
- 37f1cc1598bc93e6d8e12b3452bec50f9ef86e74 1145 huy/binary-aarch64/Packages.gz
- b610f458380b2abeffd25905f4fa0bf8b1d7967a 2627 huy/binary-aarch64/Packages
- e900b80005e07f75283f92d9613b16748568428c 1144 huy/binary-x86_64/Packages.gz
- b9a7957a11518d10de59e4d946ee06077cc66532 2617 huy/binary-x86_64/Packages
 SHA256:
- 19f9406edefa0e70192c1fded9bfb30c195e7aa0e4e7ea73a276a9ecbafc98f3 1141 huy/binary-arm/Packages.gz
- 3fccbaf92671ca89e2ee733aa7d2fefe739fa79368984b9f8d42ea42852de23b 2587 huy/binary-arm/Packages
- dea6b70419e7db7092e3ebef0ac77fd82000774821bef94809920fe138eebb05 1144 huy/binary-i686/Packages.gz
- 7ddda07649cdf139b4b26ebae529ff865f0110a9835c3bd3c2b9619c278cafed 2597 huy/binary-i686/Packages
- 7be0e5cd97d0f51842e86047c1532df7bc65737bfebec5a416a75605abc7f6bc 1145 huy/binary-aarch64/Packages.gz
- 4b47b76de4d68e82a244be6173707021c56eb6037798a055d910b0e04e5b7be3 2627 huy/binary-aarch64/Packages
- eb49fbdf5586a6d0ceccdaba5d947bb21651a07da9a280d1469405e80131844e 1144 huy/binary-x86_64/Packages.gz
- b20f534a26fa46174168b69519bb20af8edcce22b1b9508e38c6ac833a3dfdc8 2617 huy/binary-x86_64/Packages
 SHA512:
- 8af4eabb55a2c8f521dbab0c5589ae33e6464ff95ef376667aa402e7a3e4e231fe6e8c88af28fadd65adb05356618b0a571ac0a1f2dd9bb49aac62e5d273eefd 1141 huy/binary-arm/Packages.gz
- b4cc99349c794c3493e090437c1268a407a94edc9ed4c68da6fa481a97bfae3ca979d2524b0d09408cca9165696585baf3f86189f0867cd7d1bc34e9603fcb02 2587 huy/binary-arm/Packages
- 6da8c2b60e6b56a7a51d0c4fd680865aa9d269895c6eff8817b83c727fe23f91f72f3c5d78d0f156e76b79eeed369b51bb22c1a5eda413c5b0d2353655fbd538 1144 huy/binary-i686/Packages.gz
- 3411a9a1751ae48cdeb8875981ff6eb29a8c907cc7162163e20c3d4f4750bb2d26379e8fda5651041fe88a2b6a9a755aa62cd4b16a1ea9260a801f064404d8c1 2597 huy/binary-i686/Packages
- 9beade5459808d8dd6d5273914429cb8f5044041b8ad47626de4b9352ce7591c8b34016dbad810a5970efaeae1bbd7671d5b38a67ff9b4497dbcd5ec79a5d324 1145 huy/binary-aarch64/Packages.gz
- 3feef8351659022ef321ec59b2ca0c9eab4275f0cc74c0ea9c25cd76e4f3d67c4586827c53eda95e2d0573200094746da56767a28eb0985db904343c8539bb2b 2627 huy/binary-aarch64/Packages
- cdd8b3093b6345f9a32ac2365cc66f8990b129a62a31dd65e3af8e721e71ef4a02844c8fcf02c19082fe7957ef87e6c02143959ee5a050a79b2cdbed492e3d71 1144 huy/binary-x86_64/Packages.gz
- 840c0c997123dbd4487c7c272bdd6cde6e716e22e27960717c1dfd3063b164f2a614555363209b0c5cb6ee737dffd975aee4979f4f11ceba9e347aa1a391f296 2617 huy/binary-x86_64/Packages
