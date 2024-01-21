@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: u400822 huy-packages
+Label: u400822 huy-packages
+Suite: huy-packages
+Codename: huy-packages
+Date: Sun, 21 Jan 2024 07:08:17 +0000
+Architectures: aarch64 arm i686 x86_64
+Components: huy 
+Description: Huy packages
+MD5:
+SHA1:
+SHA256:
+SHA512:
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEd92xJ0unF29rVhrVAyRuvPQeEUoFAmWswuIACgkQAyRuvPQe
+EUrmbwwAjVQnc1pEnL2UDMFH69BlZNbBjLACjIenRsXwktm+IlKWN5uwMyPnKxnM
+elTEdydhV1GxRdXBiqDA9DJX2yGaqVRrYuqH5U4/Kp26kLZI44N1wzV0KXizGmhO
+Ydoltr/HmjIxptFsDb9oJdrX6qyqWzcLqjn9mR9Z8aF0i38Eh+0NFlPMdn4RF5he
+OPm4IqSUA9E/4bzYa37+UNmWnfEts9thrisA/vhXCNAUUPpXIc5xOZ+m0gqGDs/0
+2n20dmWmsfBxemhlZUqxE9+QuXVRBqkaP8S0FCngtzucE5opWxLikVhrLE/qRWnA
+tCVCOLel25IlXBQ5EV0RgLoQuwsJlCShBPjzRPBH2A+yIQbzufLPJoKFQ6Krx2HQ
+dSX6KSmolZJcRJVAb2IEjTgcyO5MLbtRg7nYQqq8YkPNvuqXuERhTSPxWP7DYbbe
+y4L5FSGXMCX7QFU5y6yOtRtHVbqaqLJyGH3Cj8P8mPI4L9UcpJ/Jp1wArBS5fFbO
+/zGBS4ex
+=fRba
+-----END PGP SIGNATURE-----
