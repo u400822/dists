@@ -1,0 +1,14 @@
+Package: php7-apache
+Version: 7.4.33
+Architecture: x86_64
+Maintainer: @u400822
+Installed-Size: 13248
+Depends: apache2, php7 (= 7.4.33)
+Filename: pool/huy/php7-apache_7.4.33_x86_64.deb
+Size: 2434844
+MD5sum: b2196b2cc9a7f7b666c5d49d45901315
+SHA1: 42226b1cd3271d65ab61e6262ce46630c33f319d
+SHA256: 75af6c72b74e84122ec395dee53930a51f0e28afb61ec17533c2377b0e604532
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+

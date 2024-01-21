@@ -1,0 +1,60 @@
+Package: php7-apache
+Version: 7.4.33
+Architecture: arm
+Maintainer: @u400822
+Installed-Size: 10724
+Depends: apache2, php7 (= 7.4.33)
+Filename: pool/huy/php7-apache_7.4.33_arm.deb
+Size: 2125672
+MD5sum: 234aa2519814b2ae60d3e84c64be2200
+SHA1: 018aea6801ddcf50f61e796a16185b9d55b5c092
+SHA256: 7312d0b70016bca23edfab15032670a5ea2833b94f1c4c0ddacaaad60a48f42f
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+
+Package: php7-fpm
+Version: 7.4.33
+Architecture: arm
+Maintainer: @u400822
+Installed-Size: 10856
+Depends: php7 (= 7.4.33)
+Conflicts: php-fpm
+Filename: pool/huy/php7-fpm_7.4.33_arm.deb
+Size: 2177088
+MD5sum: 6d8f83b2b292cc845116ba8a991a18b6
+SHA1: 4c57889092364c960d2641a0db8e823c6825282a
+SHA256: 1a1efbf6e268d4b37ae6ee8fc8350842361426dc0418e5b8e0d87add06e6bb80
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+
+Package: php7-pgsql
+Version: 7.4.33
+Architecture: arm
+Maintainer: @u400822
+Installed-Size: 132
+Depends: apr-util, postgresql, php7 (= 7.4.33)
+Conflicts: php-pgsql
+Filename: pool/huy/php7-pgsql_7.4.33_arm.deb
+Size: 40436
+MD5sum: dbeb13ba01ad3a9c774bed770f84de93
+SHA1: db30165561fd928bbdb82b292e91b39f82104d88
+SHA256: 558b2a6b1935f6505ca6627ffc4cfc2c4b6e9fd8e3b0e30a0e02dc6d625a965d
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+
+Package: php7
+Version: 7.4.33
+Architecture: arm
+Maintainer: @u400822
+Installed-Size: 38500
+Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
+Conflicts: php, php-mysql, php-dev, php7, php8, php7-crack, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
+Replaces: php, php-mysql, php-dev, php7, php8, php7-crack, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
+Filename: pool/huy/php7_7.4.33_arm.deb
+Size: 7145632
+MD5sum: fdb4398cbe8dce6cf04e6a905d2be038
+SHA1: c6ced3ec3972a34dfa3a8e4fedb43c8129c7dd51
+SHA256: 2df26a2777dd52f9bdcd6cce260b899211ddf912daf76e698d7483ddc0421cbf
+Homepage: https://php.net
+Description: Server-side, HTML-embedded scripting language
+
