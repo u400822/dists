@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
 set -e -o pipefail
 shopt -s extglob
@@ -87,7 +88,7 @@ remove_old_version() {
 			latest_version=`find . -name "${package_name}_*" | cut -d'_' -f2 | sort -V | tail -n1`
 			echo "Latest $package_name $latest_version"
 			find . -name "${package_name}_*" -not -iname "${package_name}_${latest_version}_*" -exec rm {} \;
-   			find . -name "${package_name}_*" -not -iname "${package_name}_${latest_version}_*" -exec gh release delete-asset -R github.com/$owner/$repo $tag {} -y \
+   			find . -name "${package_name}_*" -not -iname "${package_name}_${latest_version}_*" -exec gh release delete-asset -R github.com/$owner/$repo $tag {} -y \;
 		done
 	done
 
