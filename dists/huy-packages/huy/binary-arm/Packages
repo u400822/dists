@@ -72,3 +72,17 @@ SHA256: 2df26a2777dd52f9bdcd6cce260b899211ddf912daf76e698d7483ddc0421cbf
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
+Package: format
+Version: 1.0.0
+Architecture: all
+Maintainer: @u400822
+Installed-Size: 80
+Depends: php
+Filename: pool/huy/format_1.0.0_all.deb
+Size: 40160
+MD5sum: 026544006735fca1db67740f917c9c6b
+SHA1: f33a3d1adbc92426671e68dfb2837f41e3d84520
+SHA256: 6fbbdba6e30e6aac6eb96d2956c6193a4dad087d03392213e9af7cae8bb70090
+Homepage: https://github.com/
+Description: Format code for PHP
+
