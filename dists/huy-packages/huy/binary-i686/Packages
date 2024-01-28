@@ -1,3 +1,17 @@
+Package: format
+Version: 1.0.0
+Architecture: i686
+Maintainer: @u400822
+Installed-Size: 80
+Depends: php
+Filename: pool/huy/format_1.0.0_i686.deb
+Size: 40160
+MD5sum: 8bd2f7492f84e5bca1169d6c8db21566
+SHA1: e337f0d02bf159847fc1b91f4e10e26ff243550b
+SHA256: 1ec9c8c908ba94b6b5c5219b08e1d616257cacc2b86de2253beb879713e61cf5
+Homepage: https://github.com/
+Description: Format code for PHP
+
 Package: php7-apache
 Version: 7.4.33
 Architecture: i686

@@ -1,3 +1,17 @@
+Package: format
+Version: 1.0.0
+Architecture: arm
+Maintainer: @u400822
+Installed-Size: 80
+Depends: php
+Filename: pool/huy/format_1.0.0_arm.deb
+Size: 40156
+MD5sum: d48fc8e083d34684ced01a0c08c81fdd
+SHA1: c860909cb99fa9283d7d3473b631bf3a6f6ee192
+SHA256: 5eedd5fcc646bdc843f299cfc9f48dc51ae9d2eb0e3c824ec1300da515f6ddb8
+Homepage: https://github.com/
+Description: Format code for PHP
+
 Package: php7-apache
 Version: 7.4.33
 Architecture: arm
