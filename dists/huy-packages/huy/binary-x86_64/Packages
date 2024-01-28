@@ -1,17 +1,3 @@
-Package: format
-Version: 1.0.0
-Architecture: x86_64
-Maintainer: @u400822
-Installed-Size: 80
-Depends: php
-Filename: pool/huy/format_1.0.0_x86_64.deb
-Size: 40156
-MD5sum: 761621e117e44f7b8e9fd4a8b65664ef
-SHA1: a33be301af20e1772dad9377d589eb15d0490822
-SHA256: 3f21a3190db7f73eebb35c0208cd2fb4eb983385b35f0cbe07922ea0944358c3
-Homepage: https://github.com/
-Description: Format code for PHP
-
 Package: php7-apache
 Version: 7.4.33
 Architecture: x86_64
@@ -73,16 +59,16 @@ Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
 Package: format
-Version: 1.0.0
+Version: 1.0.1
 Architecture: all
 Maintainer: @u400822
 Installed-Size: 80
 Depends: php
-Filename: pool/huy/format_1.0.0_all.deb
-Size: 40160
-MD5sum: 026544006735fca1db67740f917c9c6b
-SHA1: f33a3d1adbc92426671e68dfb2837f41e3d84520
-SHA256: 6fbbdba6e30e6aac6eb96d2956c6193a4dad087d03392213e9af7cae8bb70090
+Filename: pool/huy/format_1.0.1_all.deb
+Size: 40164
+MD5sum: b85225cf9fddeda3c90c06a140e48d26
+SHA1: eed471327e9afb0713b74682a5199607fc3dd3ca
+SHA256: ad7cad5e97845f5499546c59c1afe20e467e47f15a15758e06781535698c7bc4
 Homepage: https://github.com/
 Description: Format code for PHP
 
