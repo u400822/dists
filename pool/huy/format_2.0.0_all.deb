@@ -1,0 +1,14 @@
+Package: format
+Version: 2.0.0
+Architecture: all
+Maintainer: @u400822
+Installed-Size: 3924
+Depends: php
+Filename: pool/huy/format_2.0.0_all.deb
+Size: 50524
+MD5sum: 1d0e79ff5b4de484bb167b8d8e300489
+SHA1: 3fb3e9823432ac4db740e25372bbf10c66d463e4
+SHA256: d587eb09b5297553a71f4263a3c67e2b61a461fabf596a5d534b59589040daf5
+Homepage: https://github.com/
+Description: Format code for PHP
+
